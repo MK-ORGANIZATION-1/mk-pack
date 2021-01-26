@@ -1,4 +1,4 @@
-#                                 Welcome to DataFlair Hangman Game:
+#                                 Welcome to MK KNIGHT Hangman Game:
 
 
 import random
